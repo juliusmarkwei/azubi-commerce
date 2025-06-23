@@ -25,23 +25,28 @@ A modern e-commerce platform built with Next.js, React, and Tailwind CSS.
 ## 🚀 Getting Started
 
 1. **Clone the repository**
+
    ```bash
    git clone https://github.com/juliusmarkwei/azubi-commerce.git
    cd azubi-commerce
    ```
 
 2. **Install dependencies**
+
    ```bash
    pnpm install
    ```
 
 3. **Start the development server**
+
    ```bash
    pnpm dev
    ```
+
    Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 4. **Build for production**
+
    ```bash
    pnpm build
    pnpm start
@@ -49,7 +54,7 @@ A modern e-commerce platform built with Next.js, React, and Tailwind CSS.
 
 ## 📁 Project Structure
 
-```
+```text
 azubi-commerce/
 ├── public/            # Static files
 ├── src/

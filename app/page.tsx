@@ -12,7 +12,6 @@ import logo from './assets/shared/desktop/logo.svg'
 import facebook_logo from './assets/shared/desktop/icon-facebook.svg'
 import x_logo from './assets/shared/desktop/icon-twitter.svg'
 import insta_logo from './assets/shared/desktop/icon-instagram.svg'
-import Link from "next/link"
 
 
 
